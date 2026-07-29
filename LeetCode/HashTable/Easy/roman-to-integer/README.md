@@ -12,9 +12,9 @@
 
 ### Spaced Repetition (Active Recall)
 To master this problem, it's recommended to review it again on:
-- **1st Review:** Thu Jul 30 2026
-- **2nd Review:** Wed Aug 05 2026
-- **3rd Review:** Fri Aug 28 2026
+- **1st Review:** Fri Jul 31 2026
+- **2nd Review:** Thu Aug 06 2026
+- **3rd Review:** Sat Aug 29 2026
 
 ---
 
