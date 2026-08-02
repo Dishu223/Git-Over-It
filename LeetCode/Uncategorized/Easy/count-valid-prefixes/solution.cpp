@@ -12,13 +12,12 @@ public:
                 zeros++;
             else
                 ones++;
-            if(!zero && ones || !ones && zero)
-                return 1;
-            
             if(zeros - ones <= 1)
                 count++;
             i++;
         }
+        if(!zeros && ones || !ones && zeros)
+                return 1;
         return count;
     }
 };
