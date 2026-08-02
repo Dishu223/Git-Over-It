@@ -4,7 +4,7 @@ public:
         int i=0;
         int zeros = 0;
         int ones = 0;
-        int count = 0;
+        int count = 1;
 
         while(i < s.length())
         {
