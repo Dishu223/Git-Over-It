@@ -12,6 +12,9 @@ public:
                 zeros++;
             else
                 ones++;
+            if(!zero && ones || !ones && zero)
+                return 1;
+            
             if(zeros - ones <= 1)
                 count++;
             i++;
