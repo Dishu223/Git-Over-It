@@ -14,6 +14,7 @@ public:
                 ones++;
             if(zeros - ones <= 1)
                 count++;
+            i++;
         }
         return count;
     }
